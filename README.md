@@ -41,6 +41,8 @@ cd %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/NIHITHARANI/Windows-basic-commands-batchscript/assets/149365740/37180126-a93b-44f0-9daf-a7a3068dd671)
 
+
+
 ![image](https://github.com/NIHITHARANI/Windows-basic-commands-batchscript/assets/149365740/8452701d-ae6f-4265-9288-1f3a044dfffa)
 
 
@@ -63,6 +65,9 @@ mkdir %userprofile%\Desktop\Backup
 copy MyFile.txt %userprofile%\Desktop\Backup
 ```
 ![image](https://github.com/NIHITHARANI/Windows-basic-commands-batchscript/assets/149365740/8f786807-92f9-478f-afc9-507f07e4d78a)
+
+
+
 ![image](https://github.com/NIHITHARANI/Windows-basic-commands-batchscript/assets/149365740/bf42a71c-e5a8-4542-897b-16c593a1c6e8)
 
 
